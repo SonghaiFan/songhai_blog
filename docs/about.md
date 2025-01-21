@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <div class="profile-header">
-  <img src="/images/profile.jpg" alt="Songhai Fan" class="profile-photo" />
+  <img src="/images/profile.png" alt="Songhai Fan" class="profile-photo" />
   <div class="profile-info">
     <h1>About Me</h1>
     <p class="subtitle">PhD Researcher in Human-Centered Computing</p>
