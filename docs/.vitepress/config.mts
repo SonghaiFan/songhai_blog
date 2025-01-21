@@ -3,7 +3,6 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   ignoreDeadLinks: true,
-
   title: "Songhai Fan",
   description:
     "PhD Researcher in Human-Centered Computing, focusing on narrative visualization, immersive analytics, and AI-augmented frameworks",
@@ -16,23 +15,13 @@ export default defineConfig({
       { text: "Projects", link: "/projects/" },
       { text: "About", link: "/about" },
     ],
+
     sidebar: {
       "/blog/": [
         {
           text: "Latest Posts",
           items: [
-            {
-              text: "Getting Started with Data Visualization",
-              link: "/blog/posts/getting-started-with-data-viz",
-            },
-            {
-              text: "Understanding Large Language Models",
-              link: "/blog/posts/understanding-llms",
-            },
-            {
-              text: "AI Best Practices for Researchers",
-              link: "/blog/posts/ai-best-practices",
-            },
+            // These will be populated by your blog posts
           ],
         },
         {
@@ -40,7 +29,10 @@ export default defineConfig({
           items: [
             { text: "Data Visualization", link: "/blog/categories/data-viz" },
             { text: "Large Language Models", link: "/blog/categories/llm" },
-
+            {
+              text: "Immersive Analytics",
+              link: "/blog/categories/immersive-analytics",
+            },
             { text: "AI Technologies", link: "/blog/categories/ai-tech" },
           ],
         },
