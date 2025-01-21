@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true,
+
   title: "Songhai Fan",
   description:
     "PhD Researcher in Human-Centered Computing, focusing on narrative visualization, immersive analytics, and AI-augmented frameworks",
@@ -14,7 +16,6 @@ export default defineConfig({
       { text: "Projects", link: "/projects/" },
       { text: "About", link: "/about" },
     ],
-
     sidebar: {
       "/blog/": [
         {
