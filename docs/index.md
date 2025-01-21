@@ -1,25 +1,28 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "AI Research Blog"
+  text: "Exploring the Frontiers of AI"
+  tagline: Data Visualization • Large Language Models • AI Technologies
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Latest Posts
+      link: /blog/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View Projects
+      link: /projects/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📊
+    title: Data Visualization
+    details: Exploring modern techniques and tools for effective data visualization and analysis
+  - icon: 🤖
+    title: Large Language Models
+    details: Deep dives into LLMs, their applications, and latest developments
+  - icon: 🧠
+    title: AI Technologies
+    details: Practical insights into AI implementation, best practices, and emerging trends
 ---
-
