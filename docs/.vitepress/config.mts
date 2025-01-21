@@ -20,7 +20,18 @@ export default defineConfig({
         {
           text: "Latest Posts",
           items: [
-            // These will be populated by your blog posts
+            {
+              text: "Getting Started with Data Visualization",
+              link: "/blog/posts/getting-started-with-data-viz",
+            },
+            {
+              text: "Understanding Large Language Models",
+              link: "/blog/posts/understanding-llms",
+            },
+            {
+              text: "AI Best Practices for Researchers",
+              link: "/blog/posts/ai-best-practices",
+            },
           ],
         },
         {
@@ -28,10 +39,7 @@ export default defineConfig({
           items: [
             { text: "Data Visualization", link: "/blog/categories/data-viz" },
             { text: "Large Language Models", link: "/blog/categories/llm" },
-            {
-              text: "Immersive Analytics",
-              link: "/blog/categories/immersive-analytics",
-            },
+
             { text: "AI Technologies", link: "/blog/categories/ai-tech" },
           ],
         },
