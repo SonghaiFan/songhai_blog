@@ -11,3 +11,4 @@ description: 所有博客文章的列表
 
 <!-- 文章列表将由脚本自动生成 -->
 
+- 2025-01-22: [VitePress如何自动化创建post并更新nav列表](/zh/blog/posts/vitepress如何自动化创建post并更新nav列表-2025-01-22-00-07-26)

@@ -39,9 +39,6 @@ date: ${now.toISOString()}
 tags: []
 description: ""
 ---
-
-# ${title}
-
 `;
 
   fs.writeFileSync(filePath, template);
