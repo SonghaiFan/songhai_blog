@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "npm run blog:update && vitepress build docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "preview": "vitepress preview docs",
     "blog:new": "node scripts/blog-utils.js new",
     "blog:update": "node scripts/blog-utils.js update",
