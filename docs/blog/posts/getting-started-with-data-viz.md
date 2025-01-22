@@ -6,8 +6,6 @@ description: A comprehensive guide to getting started with data visualization us
 author: Your Name
 ---
 
-# Getting Started with Data Visualization in Python
-
 Data visualization is a crucial skill for any data scientist or researcher. In this guide, we'll explore the fundamentals of creating effective visualizations using Python's most popular libraries.
 
 ## Why Data Visualization Matters

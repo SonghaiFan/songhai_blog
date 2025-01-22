@@ -74,11 +74,9 @@ I'm Songhai Fan (Frank), a PhD researcher in Human-Centered Computing at Monash 
 - **PhD in Human-Centered Computing** (Oct 2021 – Jul 2025 Expected)
 
   - Research Focus: Narrative Visualization and Immersive Analytics
-  - Key Milestones: Research Plan (May 2022), Confirmation (Feb 2023), Progress Review (Apr 2024)
 
 - **Master of Data Science**
 
-  - GPA: 3.7/4.0
   - Key Courses: Business Intelligence Modelling, Data Exploration & Visualisation, Statistical Data Modelling
   - Advanced Topics: Big Data Processing, Data Wrangling, Applied Data Analysis, Data Warehousing
 
@@ -120,32 +118,3 @@ Beyond research, I'm actively involved in:
 
 - Chinese (Native)
 - English (Fluent)
-
-## Contact Information
-
-- 📍 **Location**: Melbourne, Australia
-- 📱 **Phone**: +61 0434 780 632
-- 📧 **Email**: [fansonghai@hotmail.com](mailto:fansonghai@hotmail.com)
-- 🌐 **Website**: [songhai.one](https://songhai.one)
-- 💼 **LinkedIn**: [linkedin.com/in/songhaifan](https://linkedin.com/in/songhaifan)
-- 🐙 **GitHub**: [github.com/SonghaiFan](https://github.com/SonghaiFan)
-
-## Let's Connect
-
-I'm always interested in:
-
-- Research collaborations
-- Technical discussions
-- Mentorship opportunities
-- Project partnerships
-
-Feel free to reach out if you'd like to discuss:
-
-- Data visualization techniques
-- AI and machine learning applications
-- Human-computer interaction
-- Academic research opportunities
-
-::: tip Get in Touch
-The best way to reach me is via email or LinkedIn. I'm always open to interesting conversations and collaborations!
-:::

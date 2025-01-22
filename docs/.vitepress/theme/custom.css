@@ -1,0 +1,8 @@
+/* Add any global custom CSS here */
+:root {
+  --post-tag-bg: var(--vp-c-brand);
+}
+
+.dark {
+  --post-tag-bg: var(--vp-c-brand-dark);
+}
