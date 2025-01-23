@@ -11,4 +11,5 @@ description: 所有博客文章的列表
 
 <!-- 文章列表将由脚本自动生成 -->
 
-- 2025-01-22: [VitePress如何自动化创建post并更新nav列表](/zh/blog/posts/vitepress如何自动化创建post并更新nav列表-2025-01-22-00-07-26)
+- 2025-01-23: [博士开题思路总结](/zh/blog/posts/博士开题思路总结-2025-01-23-17-00-35)
+- 2025-01-22: [VitePress如何自动化创建post并更新nav列表](/zh/blog/posts/vitepress如何自动化创建post并更新nav列表-2025-01-22-00-07-26) - 探讨如何通过自动化脚本简化VitePress博客的文章创建和导航更新流程，提升写作效率。

@@ -56,65 +56,27 @@ title: About Me
 }
 </style>
 
-## Professional Profile
-
-I'm Songhai Fan (Frank), a PhD researcher in Human-Centered Computing at Monash University, Australia. My research lies at the intersection of data visualization, human-computer interaction, and artificial intelligence. I'm passionate about developing innovative ways to make complex data more accessible and meaningful through narrative visualization and AI-augmented frameworks.
+Hello! I'm Songhai Fan, a researcher and technical expert passionate about data visualization, large language models, and AI technologies.
 
 ## Research Interests
 
-- **Narrative Visualization**: Developing new approaches to data storytelling, with a focus on temporal data visualization through the Time-Track Narrative Graph Model
-- **Immersive Analytics**: Exploring scrollytelling methods and immersive techniques for enhanced user engagement
-- **Human-AI Collaboration**: Building bridges between human understanding and AI capabilities in data analysis
-- **Data Storytelling**: Creating frameworks for more effective communication of complex data insights
+- Data Visualization
+- Large Language Models
+- AI Technologies
+- Human-Computer Interaction
 
-## Education
+## Contact
 
-### Monash University, Australia
+Feel free to connect with me through:
 
-- **PhD in Human-Centered Computing** (Oct 2021 – Jul 2025 Expected)
+- GitHub: [SonghaiFan](https://github.com/SonghaiFan)
+- LinkedIn: [songhaifan](https://linkedin.com/in/songhaifan)
 
-  - Research Focus: Narrative Visualization and Immersive Analytics
+## About This Blog
 
-- **Master of Data Science**
+This blog is my platform for sharing research findings, technical insights, and thoughts on the latest technological developments. I primarily write about:
 
-  - Key Courses: Business Intelligence Modelling, Data Exploration & Visualisation, Statistical Data Modelling
-  - Advanced Topics: Big Data Processing, Data Wrangling, Applied Data Analysis, Data Warehousing
-
-- **Bachelor of Engineering (Honors)** (2016-2018)
-
-## Technical Skills
-
-### Programming & Development
-
-- **Languages**: Python, JavaScript, R, SQL
-- **Web Technologies**: React, Redux, HTML/CSS
-- **Visualization**: D3.js, React, Tableau, Power BI
-- **Data Processing**: PySpark, Scikit-learn, MySQL
-
-### AI & Machine Learning
-
-- **NLP Techniques**: Topic Modeling, Sentiment Analysis
-- **Large Language Models**: GPT Integration, Transformer Architectures
-- **Data Analysis**: Statistical Modeling, Predictive Analytics
-
-## Professional Experience
-
-My work combines academic research with practical applications in:
-
-- Data visualization systems
-- Interactive storytelling platforms
-- AI-augmented analysis tools
-- Human-centered design approaches
-
-## Personal Interests
-
-Beyond research, I'm actively involved in:
-
-- **Music**: Guitarist in a local band, participant in Melbourne Chinese Music Festival
-- **Mentorship**: Guiding students in data science and analytics projects
-- **Community**: Contributing to tech communities and open-source projects
-
-## Languages
-
-- Chinese (Native)
-- English (Fluent)
+- Data visualization techniques and best practices
+- Development and applications of large language models
+- AI technologies and their practical implementation
+- Research papers and technical tutorials
