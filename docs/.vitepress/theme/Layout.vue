@@ -79,7 +79,9 @@ const formatDate = (date) => {
 
 .post-tags {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
+  max-width: 100%;
 }
 
 .tag {
@@ -93,9 +95,22 @@ const formatDate = (date) => {
   background: var(--vp-c-brand-dimm);
   border-radius: 1rem;
   transition: background-color 0.2s;
+  white-space: nowrap;
+  max-width: 100%;
 }
 
 .tag:hover {
   background: var(--vp-c-brand-soft);
+}
+
+@media (max-width: 640px) {
+  .post-tags {
+    width: 100%;
+  }
+
+  .tag {
+    font-size: 0.7rem;
+    padding: 0 0.5rem;
+  }
 }
 </style>
