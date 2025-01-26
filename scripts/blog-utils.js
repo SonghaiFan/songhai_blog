@@ -21,9 +21,9 @@ function createPost(title, lang = "zh") {
   const now = new Date();
   const date = now.toISOString().split("T")[0];
   const time = now.toTimeString().split(" ")[0].replace(/:/g, "-");
-  const fileName = `${title
+  const fileName = `${date}-${time}-${title
     .toLowerCase()
-    .replace(/\s+/g, "-")}-${date}-${time}.md`;
+    .replace(/\s+/g, "-")}.md`;
 
   const postsDir = lang === "zh" ? ZH_POSTS_DIR : EN_POSTS_DIR;
   const filePath = path.join(postsDir, fileName);
